@@ -1,0 +1,26 @@
+{
+  "name": "rcloud",
+  "version": "1.0.0",
+  "description": "Cloud file storage",
+  "keywords": [
+    "rcloud"
+  ],
+  "homepage": "https://github.com/rezanoohi/rcloud#readme",
+  "bugs": {
+    "url": "https://github.com/rezanoohi/rcloud/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezanoohi/rcloud.git"
+  },
+  "license": "ISC",
+  "author": "Reza Noohi",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
